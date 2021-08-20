@@ -1,0 +1,27 @@
+{
+  "name": "curso_fullstack",
+  "version": "1.0.0",
+  "description": "Proyecto curso FullStack coursera ",
+  "main": "index.html",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://smmoralesr96@bitbucket.org/smmoralesr96/curso_fullstack.git"
+  },
+  "author": "Sergio Mateo Morales Romero",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/smmoralesr96/curso_fullstack#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.0.2",
+    "bootstrap-icons": "^1.5.0",
+    "jquery": "^3.6.0",
+    "open-iconic": "^1.1.1",
+    "popper.js": "^1.16.1"
+  }
+}
